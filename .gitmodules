@@ -1,0 +1,3 @@
+[submodule "railscasts_theme"]
+	path = railscasts_theme
+	url = https://github.com/oguzbilgic/sexy-railscasts-theme.git
