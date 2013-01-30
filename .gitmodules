@@ -1,3 +1,12 @@
 [submodule "railscasts_theme"]
 	path = railscasts_theme
 	url = https://github.com/oguzbilgic/sexy-railscasts-theme.git
+[submodule "railscasts_terminal"]
+	path = railscasts_terminal
+	url = https://github.com/vim-scripts/Railscasts-Theme-GUIand256color.git
+[submodule "vim-arduino"]
+	path = vim-arduino
+	url = https://github.com/tclem/vim-arduino.git
+[submodule "arduino_syntax"]
+	path = arduino_syntax
+	url = https://github.com/vim-scripts/Arduino-syntax-file.git
