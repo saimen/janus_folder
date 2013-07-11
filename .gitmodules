@@ -10,3 +10,9 @@
 [submodule "arduino_syntax"]
 	path = arduino_syntax
 	url = https://github.com/vim-scripts/Arduino-syntax-file.git
+[submodule "vim-golang"]
+	path = vim-golang
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "TaskList"]
+	path = TaskList
+	url = https://github.com/vim-scripts/TaskList.vim.git
